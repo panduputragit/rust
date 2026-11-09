@@ -1,0 +1,1 @@
+/Volumes/Panduputra/Rust/rust/part1/variable/excercise/temperature_converter/target/debug/temperature_converter: /Volumes/Panduputra/Rust/rust/part1/variable/excercise/temperature_converter/src/main.rs
